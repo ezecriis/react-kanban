@@ -1,6 +1,5 @@
-# Liteflix
+# Kanban board
 
-Kanban board
 
 ## ⚙️ Run Web app locally
 
